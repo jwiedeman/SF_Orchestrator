@@ -1,0 +1,43 @@
+Ai
+Amp
+Accessibility
+Analytics
+Canonicals
+Change detection
+Content
+Cookies
+Custom extraction
+Custom javascript
+Custom search
+Directives
+External
+H1
+H2
+Http headers
+Hreflang
+Images
+Internal
+Issues
+JavaScript
+Link metrics
+Links
+Meta description
+Meta keywords
+Mobile
+Options
+Page titles
+Pagespeed
+Pagination
+Path type
+Redirects
+Response codes
+Search console
+Security
+Sitemaps
+Structured data
+Undef
+Url
+Url inspection
+Usage
+Validation
+Web

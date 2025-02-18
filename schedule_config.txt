@@ -1,0 +1,8 @@
+# Schedule Configuration
+# Format: URL, Frequency (e.g., 'weekly', 'daily'), Time (e.g., '01:00'), Save Excel (True/False)
+
+https://www.example.com, weekly, 01:00, True
+
+# Format: URL, Frequency (e.g., 'weekly', 'daily'), Time (e.g., '01:00')
+
+https://www.example.com, weekly, 01:00

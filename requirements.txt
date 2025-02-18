@@ -1,0 +1,4 @@
+subprocess
+pandas
+openpyxl
+sqlite3

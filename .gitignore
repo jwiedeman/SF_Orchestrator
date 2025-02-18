@@ -1,0 +1,18 @@
+# Ignore Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.log
+# Ignore folders named "lib" and "jre"
+lib/
+jre/
+output/
+*.seospider
+unins000.dat
+unins000.exe
+unins000.msg
+ScreamingFrogSEOSpiderCli.l4j.ini
+ScreamingFrogSEOSpiderCli.exe
+ScreamingFrogSEOSpider.l4j.ini
+ScreamingFrogSEOSpider.jar
+ScreamingFrogSEOSpider.exe
